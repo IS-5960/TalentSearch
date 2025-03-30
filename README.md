@@ -5,7 +5,7 @@
 
 ## 📌 Project Description
 
-The **Midwest Jobs Analysis** dashboard is designed to deliver comprehensive, visual insights into the job market across Midwest states using historical job postings data from **Handshake (2022–2025)**.
+The **Jobs Analysis** dashboard is designed to deliver comprehensive, visual insights into the job market across Midwest states using historical job postings data from **Handshake (2022–2025)**.
 
 Targeting students, job seekers, professionals, and academic advisors, the dashboard simplifies large-scale job data into interactive visuals for better career planning, decision-making, and skill development.
 
